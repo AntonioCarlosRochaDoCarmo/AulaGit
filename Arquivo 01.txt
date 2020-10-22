@@ -1,1 +1,4 @@
-Criando arquivo .git alterado
+Teste git
+teste de alteração do arquivo
+alterado no branch master
+alterado no branch master e commitado
