@@ -1,2 +1,3 @@
-teste 02
-criando um arquivo para teste e o modificando
+Arquivo 02
+teste de alteração do arquivo 02
+agora ja com alteração da base remota
